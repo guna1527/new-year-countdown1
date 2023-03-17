@@ -1,0 +1,39 @@
+body{
+background-image: url("https://wallpapertag.com/wallpaper/full/5/4/e/146499-cool-new-years-eve-background-1920x1200.jpg");
+background-repeat:no-repeat;
+background-size: cover;
+background-position: center;
+height: 100vh;
+color: white;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+
+}
+h1{
+    font-size:50px ;
+
+}
+.countdown{
+    display: flex;
+}
+h2{
+    font-size: 40px;
+}
+.time{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 15px;
+
+}
+.year{
+
+    font-size: 100px;
+    position: absolute;
+    bottom: 20px;
+
+}
+
+
